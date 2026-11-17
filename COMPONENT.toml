@@ -3,7 +3,7 @@ name = "SigmaOS-amazon-prime-dl"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "amazon-prime-dl component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
